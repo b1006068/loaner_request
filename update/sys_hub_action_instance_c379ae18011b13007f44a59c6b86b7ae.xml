@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
+        <comment>Closed Complete</comment>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Loaner Laptop">3317a218011b13007f44a59c6b86b7e0</flow>
+        <order>6</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-10 18:48:02</sys_created_on>
+        <sys_id>c379ae18011b13007f44a59c6b86b7ae</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">01c4cd8401d313007f44a59c6b86b7af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">01c4cd8401d313007f44a59c6b86b7af</sys_scope>
+        <sys_update_name>sys_hub_action_instance_c379ae18011b13007f44a59c6b86b7ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-10 18:48:08</sys_updated_on>
+        <ui_id>b06e973e-3182-4bc7-8867-b8f87a1ea3cf</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=c379ae18011b13007f44a59c6b86b7ae"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>c379ae18011b13007f44a59c6b86b7ae</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-10 18:48:02</sys_created_on>
+        <sys_id>5379ae18011b13007f44a59c6b86b7f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-10 18:48:02</sys_updated_on>
+        <value>x_snc_loaner_reque_loaner_request</value>
+        <variable display_value="">b5d01916c31332002841b63b12d3aec9</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>c379ae18011b13007f44a59c6b86b7ae</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-10 18:48:02</sys_created_on>
+        <sys_id>8379ae18011b13007f44a59c6b86b7b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-10 18:48:02</sys_updated_on>
+        <value>x_snc_loaner_reque_loaner_request</value>
+        <variable display_value="">1fd27c8cc3c632002841b63b12d3aeb9</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>c379ae18011b13007f44a59c6b86b7ae</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-10 18:48:02</sys_created_on>
+        <sys_id>9f79ae18011b13007f44a59c6b86b7f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-10 18:48:02</sys_updated_on>
+        <value>state=3</value>
+        <variable display_value="">02d01916c31332002841b63b12d3aeee</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>c379ae18011b13007f44a59c6b86b7ae</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-10 18:48:02</sys_created_on>
+        <sys_id>cf79ae18011b13007f44a59c6b86b7b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-10 18:48:02</sys_updated_on>
+        <value>state=3</value>
+        <variable display_value="">e7d270ccc3c632002841b63b12d3ae8b</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=c379ae18011b13007f44a59c6b86b7ae"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>c379ae18011b13007f44a59c6b86b7ae</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-10 18:48:02</sys_created_on>
+        <sys_id>5b79ae18011b13007f44a59c6b86b7f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-10 18:48:02</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value>{{Created or Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>c379ae18011b13007f44a59c6b86b7ae</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-10 18:48:02</sys_created_on>
+        <sys_id>8b79ae18011b13007f44a59c6b86b7b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-10 18:48:02</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value>{{Created or Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>c379ae18011b13007f44a59c6b86b7ae</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-10 18:48:02</sys_created_on>
+        <sys_id>9779ae18011b13007f44a59c6b86b7f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-10 18:48:02</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>c379ae18011b13007f44a59c6b86b7ae</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-10 18:48:02</sys_created_on>
+        <sys_id>c779ae18011b13007f44a59c6b86b7b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-10 18:48:02</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>c379ae18011b13007f44a59c6b86b7ae</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-10 18:48:02</sys_created_on>
+        <sys_id>1f79ae18011b13007f44a59c6b86b7f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-10 18:48:02</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>c379ae18011b13007f44a59c6b86b7ae</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-10 18:48:02</sys_created_on>
+        <sys_id>4f79ae18011b13007f44a59c6b86b7b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-10 18:48:02</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>
